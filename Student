@@ -1,0 +1,13 @@
+Public class Student{
+
+public int grade;
+public String name;
+
+public Student(int g, int n){
+
+grade = g;
+name = n;
+
+{
+
+}
