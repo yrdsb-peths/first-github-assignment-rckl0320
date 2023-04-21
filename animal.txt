@@ -1,0 +1,7 @@
+public class animal{
+	
+
+
+	public String species;
+	public int Age;
+}

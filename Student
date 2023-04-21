@@ -13,3 +13,4 @@ name = n;
 }
 
 private int gpa = 0;
+int volunteer hours;
