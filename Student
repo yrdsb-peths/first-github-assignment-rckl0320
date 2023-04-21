@@ -11,3 +11,5 @@ name = n;
 {
 
 }
+
+private int gpa = 0;
