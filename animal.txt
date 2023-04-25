@@ -5,5 +5,12 @@ public class animal{
 	public String species;
 
 	private int number;
-	public int Age;
+	public int age;
+
+	public Animal(String spc, int num, int ag)
+	{
+	 	species = spc;
+		number = num;
+		age = ag;
+	}
 }
